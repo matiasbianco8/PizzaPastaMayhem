@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 276a2372944d60f4eb893a90e2383376
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 1.unity
+    guid: e8c29cbc32d36aa499ccb2fc212ffc12
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 2.unity
+    guid: 9a0f095beff2ca54cadf8b5b8e097f96
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 3.unity
+    guid: 0a45d86284c58cf49ac45fd6625d17a7
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 4 - Boss-Fight1.unity
+    guid: 3bc06aa7e072ec84ca3c0e890b677fe7
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 5.unity
+    guid: 3ba5b6834d00c3546b1f66ce847c946d
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 6.unity
+    guid: f2617378b24a8ec429a3bb3de5fd44c8
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 7.unity
+    guid: 96954728f0e97384db14eaae489cfaac
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 8.unity
+    guid: 7c01b65f307636d4b92305785560fc59
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 9.unity
+    guid: 75c96bfd947914345ae3a965fdd52b92
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 10 - Boss-Fight2.unity
+    guid: b752bd18ba463ab439452267ed44517e
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 11.unity
+    guid: e765cfd1e5176f44e9b3ed550cb471ec
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 12 - Boss-Fight3.unity
+    guid: dbc856b396fa4cb4aa6b70ab7d32848d
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 13.unity
+    guid: 332a860d85cc13f42b8939cf091e6482
+  - enabled: 0
+    path: Assets/Scenes/Runner Remake.unity
+    guid: ec54dfb39d6a44d469930abc00bdf24e
+  - enabled: 0
+    path: Assets/Scenes/TIMER TEST.unity
+    guid: 177bc7fbc80f1ec4b888484e0abfd99d
+  - enabled: 0
+    path: Assets/Scenes/LVL RUN HAZARD.unity
+    guid: 57cb4f94f8310054dbba497113b9ed87
+  - enabled: 0
+    path: Assets/Scenes/LVL 4 PLACEHOLDER.unity
+    guid: 38bac25f34522eb4ba3ee256c254cbe8
+  - enabled: 0
+    path: Assets/Scenes/LVL 6 PLACEHOLDER (Delivery).unity
+    guid: 73b6b4a9db45d914fbc0d9333a2425bf
+  - enabled: 0
+    path: Assets/Scenes/LVL 7 PLACEHOLDER.unity
+    guid: a780d2befad0d5747bc923466665d672
+  - enabled: 0
+    path: Assets/Scenes/LVL 8 Placeholder.unity
+    guid: 383a01bac63a2a44b8366b54d533e8dc
+  - enabled: 0
+    path: Assets/Scenes/LVL 9 Placeholder.unity
+    guid: 6fa3e396fbf5f28429125fdd2e60b3cc
+  - enabled: 1
+    path: Assets/Scenes/Pantalla Game Over.unity
+    guid: 494d624b0bd35be4d92cd1465f0b4838
+  - enabled: 1
+    path: Assets/Scenes/SelectorDeNiveles.unity
+    guid: 0944fd07cde4f3f49a79bd00bff46ded
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 1.unity
+    guid: a17736eca8a85fb418c83e2adb998c3e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 2.unity
+    guid: cbc99a6dd282d224fa485d9e303aefa3
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 3.unity
+    guid: f43c74e6919eda545912d351660dcd25
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 4.unity
+    guid: b0499368567e51f42bf14fd20dfa222e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 5.unity
+    guid: 48a34cca3260436478d31e3b28d6b27e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 6.unity
+    guid: b3db144c3706d6248819329cc169b987
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 7.unity
+    guid: c73bf6281dca70b45b4e79139291d4bc
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 8.unity
+    guid: a1173e27f67f8a64abd8ccaf0ce7b5e0
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 9.unity
+    guid: 8022457fd434e4345a1b7855d385f60e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 10.unity
+    guid: fd44f6be3526d714bae7f6df49ba84d9
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 11.unity
+    guid: 416df16097683b14280a4221e4108965
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 12.unity
+    guid: 9cb6a0509035782429199fec24707ca3
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 13.unity
+    guid: 49103988fe3d0f74c9e03a678e5f97aa
+  - enabled: 1
+    path: Assets/Scenes/Cutscene LVL 14.unity
+    guid: 7ee89e20b8fc61e4a85616e69bf2ee3b
+  - enabled: 1
+    path: "Assets/Scenes/Cr\xE9ditos.unity"
+    guid: 05291a60a02ea0e4ba32b493d8f02b0f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Escenario de prueba.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
